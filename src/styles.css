@@ -87,7 +87,7 @@ section {
 
 .section--container h1 {
   font-weight: 900;
-  font-size: 16vw;
+  font-size: min(16vw, 190px);
   letter-spacing: -6px;
   font-style: italic;
   width: 30%;
